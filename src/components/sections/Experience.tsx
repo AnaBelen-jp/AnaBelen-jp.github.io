@@ -42,7 +42,7 @@ const ExperienceCard: React.FC<ExperienceProps> = ({ title, place, date, descrip
 const Experience: React.FC = () => {
   return (
     <div className="py-10 w-full border-t-2 border-[#7c7f58] text-center">
-      <h1 className="text-[#7c7f58] text-3xl font-bold mb-6">Experiencia</h1>
+      <h1 className="text-[#7C7F58] text-3xl font-bold mb-6">Experiencia</h1>
       <div className="space-y-8 md:space-y-6">
         <ExperienceCard
           title="Controller Finance"
