@@ -24,7 +24,7 @@ const Introduction = () => {
         <p className="text-[#333] font-bold text-2xl leading-relaxed mb-4">
           Finanzas y Contabilidad
         </p>
-        <p className="text-gray-500 text-left md:text-justify leading-relaxed mt-4 mb-7 max-w-md md:max-w-lg mx-auto">
+        <p className="text-gray-500 md:text-justify leading-relaxed mt-4 mb-7 max-w-md md:max-w-2xl">
           Graduada en Finanzas y Contabilidad con más de 8 años trabajando en contabilidad y gestión financiera. Emprendedora y creadora de PARANØLVIDAR, empresa organizadora de bodas y eventos.
         </p>
 
