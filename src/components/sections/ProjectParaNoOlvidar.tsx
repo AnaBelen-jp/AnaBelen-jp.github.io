@@ -1,8 +1,8 @@
 import React from 'react';
-import ev1 from '../../../public/images/pno_event_1.jpg';
-import ev2 from '../../../public/images/pno_event_2.jpg';
-import ev3 from '../../../public/images/pno_event_3.jpg';
-import ev4 from '../../../public/images/pno_event_4.jpg';
+import ev1 from '../../assets/images/pno_event_1.jpg';
+import ev2 from '../../assets/images/pno_event_2.jpg';
+import ev3 from '../../assets/images/pno_event_3.jpg';
+import ev4 from '../../assets/images/pno_event_4.jpg';
 
 import { FaInstagram } from "react-icons/fa6";
 

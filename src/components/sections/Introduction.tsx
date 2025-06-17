@@ -1,8 +1,7 @@
 import { useState } from 'react';
 import { FaDownload } from 'react-icons/fa';
 import { FaLinkedin } from "react-icons/fa6";
-import introPic from '../../../public/images/perfil_1.jpeg';
-import cvFile from '../../../public/pdfFiles/CV_Ana_Belen_Jimenez_Pajuelo.pdf';
+import introPic from '../../assets/images/perfil_1.jpeg';
 
 const Introduction = () => {
   const [copied, setCopied] = useState(false);
@@ -49,7 +48,7 @@ const Introduction = () => {
           </a>
 
           <a
-            href={cvFile}
+            href="/pdfFiles/CV_Ana_Belen_Jimenez_Pajuelo.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center border-2 border-[#BD9C86] text-[#BD9C86] text-xs font-bold py-2 px-3 rounded-lg shadow-md hover:text-[#a0806a] transition duration-100 hover:scale-102 active:scale-98"

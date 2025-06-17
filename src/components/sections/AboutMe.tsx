@@ -1,4 +1,4 @@
-import sign from '../../../public/images/sign.png';
+import sign from '../../assets/images/sign.png';
 
 const AboutMe = () => {
     return (
